@@ -1,0 +1,11 @@
+{
+    "name": "hex/example",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "hex",
+            "email": "hex@hexlet.io"
+        }
+    ],
+    "require": {}
+}
